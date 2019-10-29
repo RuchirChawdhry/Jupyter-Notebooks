@@ -2,7 +2,7 @@
 
 A collection of my jupyter notebook on all things python.
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) ![](https://img.shields.io/pypi/pyversions/Django.svg) ![](https://img.shields.io/github/license/RuchirChawdhry/passwordchecker.svg) ![](https://img.shields.io/github/size/RuchirChawdhry/PasswordChecker.svg) ![](https://img.shields.io/badge/version-v1.0-blue.svg)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) ![](https://img.shields.io/pypi/pyversions/Django.svg) ![](https://img.shields.io/github/license/RuchirChawdhry/Jupyter-Notebooks.svg) ![](https://img.shields.io/github/size/RuchirChawdhry/Jupyter-Notebooks.svg)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 

@@ -21,7 +21,6 @@ A collection of my jupyter notebook on all things python.
 ## Contact
 
 
-<img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />  LinkedIn: [linkedin.com/in/RuchirChawdhry](https://www.linkedin.com/in/ruchirchawdhry/)
-
+<img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />  LinkedIn: [linkedin.com/in/RuchirChawdhry](https://www.linkedin.com/in/ruchirchawdhry/)<br>
 <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />Website: [ruchirchawdhry.com](https://ruchirchawdhry.com)
 

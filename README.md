@@ -19,5 +19,8 @@ A collection of my jupyter notebook on all things python.
 - Star Expressions: \*args and \*\*kwargs
 
 ## Contact
-Ruchir Chawdhry - <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /> [@my_twitter](https://www.twitter.com/my_username) - <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
- [LinkedIn](https://www.linkedin.com/in/ruchirchawdhry/)
+
+
+<img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />  LinkedIn: [linkedin.com/in/RuchirChawdhry](https://www.linkedin.com/in/ruchirchawdhry/)
+Website: [ruchirchawdhry.com](https://ruchirchawdhry.com)
+
